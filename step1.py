@@ -49,6 +49,6 @@ def Getting_NSM_signature(SBTfile,Base_pos_idx,OTPT):
     write_in.close()
 
 if __name__ == "__main__":
-    Getting_NSM_signature(r'PATH\Substitution_in_POOL1andPOOL2.tab',
-                          r'PATH\DNA_Base_info.txt',
+    Getting_NSM_signature(r'PATH\Mutations.tab',
+                          r'PATH\DNA_Base_order.txt',
                           r'PATH\NSM_signature.fasta')
