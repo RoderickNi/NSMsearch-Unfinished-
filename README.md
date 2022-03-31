@@ -1,5 +1,5 @@
 # NSMsearch
-Python scripts for reads (containing NSM codon) identification in public data
+Python scripts for reads (containing NSM codon) identification in public transcriptome data
 ## Procedure
 ### Step1    
 Create the signature sequence of each NSM    
