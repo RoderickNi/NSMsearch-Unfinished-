@@ -1,4 +1,4 @@
-# NSMsearch
+# NSMsearch (Unfinished)
 Python scripts for reads (containing NSM codon) identification in public transcriptome data
 ## Procedure
 ### Step1    
